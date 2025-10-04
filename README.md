@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Asia  
 
-<!--
-**CeresoliAsia/CeresoliAsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Computer Engineering student** at [UniBg](https://lt-ii.unibg.it/it)  
+💻 Passionate about coding, problem solving, and learning new tech  
+🌱 Currently diving deeper into software development & algorithms  
+✨ A little mix of creativity and logic 🌸  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me
+- [GitHub](https://github.com/CeresoliAsia)  
+- [Instagram](https://www.instagram.com/asimov06/)  
+
+---
+
+### 📊 GitHub Stats
+![Asia's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeresoliAsia&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeresoliAsia&layout=compact&theme=tokyonight)
