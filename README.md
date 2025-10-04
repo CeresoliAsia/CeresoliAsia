@@ -11,14 +11,15 @@
 
 <p align="center">
   <a href="https://instagram.com/asimov06">
-    <img src="https://img.shields.io/badge/@asimov06-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/CeresoliAsia">
-    <img src="https://img.shields.io/badge/@CeresoliAsia-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/%40asimov06-7F5AF0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=transparent" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/CeresoliAsia">
+    <img src="https://img.shields.io/badge/@CeresoliAsia-5A5FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=transparent" />
+  </a>
+</p>
 
 ---
 
