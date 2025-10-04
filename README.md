@@ -7,6 +7,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://1drv.ms/i/c/50620b39fcdcc881/ER_AgnJNy6xOokdKlLKMsfgBJtilTlzW9Unr7kawk83_pw?e=rtP3o0" alt="Cozy Banner" width="800"/>
+  <br>
+  <em>"Code is like art, logic is the brush, coffee is the canvas ☕💻"</em>
+</p>
+
+---
+
 ### 🌐 Connect with me  
 
 <p align="center">
@@ -27,6 +35,19 @@
 ![Asia's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeresoliAsia&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CeresoliAsia&layout=compact&theme=tokyonight&langs_count=6&hide=html,css)  
+
+---
+
+### 🖥️ My Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-1E1E1E?style=for-the-badge&logo=c-sharp&logoColor=%23ff5c57&color=1E1E1E&labelColor=1E1E1E" />
+  <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=%23FFD866&color=1E1E1E&labelColor=1E1E1E" />
+  <img src="https://img.shields.io/badge/PHP-1E1E1E?style=for-the-badge&logo=php&logoColor=%23777BB4&color=1E1E1E&labelColor=1E1E1E" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1E1E1E?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&color=1E1E1E&labelColor=1E1E1E" />
+  <img src="https://img.shields.io/badge/HTML-1E1E1E?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=1E1E1E&labelColor=1E1E1E" />
+  <img src="https://img.shields.io/badge/CSS-1E1E1E?style=for-the-badge&logo=css3&logoColor=%231572B6&color=1E1E1E&labelColor=1E1E1E" />
+</p>
 
 ---
 
