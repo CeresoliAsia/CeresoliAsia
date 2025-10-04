@@ -7,9 +7,18 @@
 
 ---
 
-### 🌐 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CeresoliAsia)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/asimov06)  
+### 🌐 Connect with me  
+
+<p align="center">
+  <a href="https://instagram.com/asimov06">
+    <img src="https://img.shields.io/badge/@asimov06-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/CeresoliAsia">
+    <img src="https://img.shields.io/badge/@CeresoliAsia-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
