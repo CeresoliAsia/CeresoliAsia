@@ -22,13 +22,13 @@
     <img src="https://img.shields.io/badge/%40asimov06-7F5AF0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=transparent" />
   </a>
 </p>
-
+<!-- 
 <p align="center">
   <a href="https://github.com/CeresoliAsia">
     <img src="https://img.shields.io/badge/@CeresoliAsia-5A5FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=transparent" />
   </a>
 </p>
-
+ -->
 ---
 
 ### 📊 GitHub Stats
