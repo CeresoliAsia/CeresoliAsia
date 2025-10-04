@@ -8,9 +8,9 @@
 ---
 
 <p align="center">
-  <img src="https://1drv.ms/i/c/50620b39fcdcc881/ER_AgnJNy6xOokdKlLKMsfgBJtilTlzW9Unr7kawk83_pw?e=rtP3o0" alt="Cozy Banner" width="800"/>
+  <img src="assets/bannercozy.gif" alt="Cozy Banner" width="700" height="250"/>
   <br>
-  <em>"Code is like art, logic is the brush, coffee is the canvas ☕💻"</em>
+  <em>"Coding with purpose, powered by coffee and curiosity ☕💻"</em>
 </p>
 
 ---
